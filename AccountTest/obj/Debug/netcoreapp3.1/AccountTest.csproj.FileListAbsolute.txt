@@ -1,0 +1,13 @@
+C:\Users\Olusoji\Desktop\Codebits-Academy\Lab-Tasks\Lab-Task9\AccountTest\obj\Debug\netcoreapp3.1\AccountTest.csprojAssemblyReference.cache
+C:\Users\Olusoji\Desktop\Codebits-Academy\Lab-Tasks\Lab-Task9\AccountTest\obj\Debug\netcoreapp3.1\AccountTest.csproj.CoreCompileInputs.cache
+C:\Users\Olusoji\Desktop\Codebits-Academy\Lab-Tasks\Lab-Task9\AccountTest\obj\Debug\netcoreapp3.1\AccountTest.AssemblyInfoInputs.cache
+C:\Users\Olusoji\Desktop\Codebits-Academy\Lab-Tasks\Lab-Task9\AccountTest\obj\Debug\netcoreapp3.1\AccountTest.AssemblyInfo.cs
+C:\Users\Olusoji\Desktop\Codebits-Academy\Lab-Tasks\Lab-Task9\AccountTest\bin\Debug\netcoreapp3.1\AccountTest.exe
+C:\Users\Olusoji\Desktop\Codebits-Academy\Lab-Tasks\Lab-Task9\AccountTest\bin\Debug\netcoreapp3.1\AccountTest.deps.json
+C:\Users\Olusoji\Desktop\Codebits-Academy\Lab-Tasks\Lab-Task9\AccountTest\bin\Debug\netcoreapp3.1\AccountTest.runtimeconfig.json
+C:\Users\Olusoji\Desktop\Codebits-Academy\Lab-Tasks\Lab-Task9\AccountTest\bin\Debug\netcoreapp3.1\AccountTest.runtimeconfig.dev.json
+C:\Users\Olusoji\Desktop\Codebits-Academy\Lab-Tasks\Lab-Task9\AccountTest\bin\Debug\netcoreapp3.1\AccountTest.dll
+C:\Users\Olusoji\Desktop\Codebits-Academy\Lab-Tasks\Lab-Task9\AccountTest\bin\Debug\netcoreapp3.1\AccountTest.pdb
+C:\Users\Olusoji\Desktop\Codebits-Academy\Lab-Tasks\Lab-Task9\AccountTest\obj\Debug\netcoreapp3.1\AccountTest.dll
+C:\Users\Olusoji\Desktop\Codebits-Academy\Lab-Tasks\Lab-Task9\AccountTest\obj\Debug\netcoreapp3.1\AccountTest.pdb
+C:\Users\Olusoji\Desktop\Codebits-Academy\Lab-Tasks\Lab-Task9\AccountTest\obj\Debug\netcoreapp3.1\AccountTest.genruntimeconfig.cache

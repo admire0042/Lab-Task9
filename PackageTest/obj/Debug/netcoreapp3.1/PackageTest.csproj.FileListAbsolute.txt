@@ -1,0 +1,13 @@
+C:\Users\Olusoji\Desktop\Codebits-Academy\Lab-Tasks\Lab-Task9\PackageTest\obj\Debug\netcoreapp3.1\PackageTest.csprojAssemblyReference.cache
+C:\Users\Olusoji\Desktop\Codebits-Academy\Lab-Tasks\Lab-Task9\PackageTest\obj\Debug\netcoreapp3.1\PackageTest.csproj.CoreCompileInputs.cache
+C:\Users\Olusoji\Desktop\Codebits-Academy\Lab-Tasks\Lab-Task9\PackageTest\obj\Debug\netcoreapp3.1\PackageTest.AssemblyInfoInputs.cache
+C:\Users\Olusoji\Desktop\Codebits-Academy\Lab-Tasks\Lab-Task9\PackageTest\obj\Debug\netcoreapp3.1\PackageTest.AssemblyInfo.cs
+C:\Users\Olusoji\Desktop\Codebits-Academy\Lab-Tasks\Lab-Task9\PackageTest\bin\Debug\netcoreapp3.1\PackageTest.exe
+C:\Users\Olusoji\Desktop\Codebits-Academy\Lab-Tasks\Lab-Task9\PackageTest\bin\Debug\netcoreapp3.1\PackageTest.deps.json
+C:\Users\Olusoji\Desktop\Codebits-Academy\Lab-Tasks\Lab-Task9\PackageTest\bin\Debug\netcoreapp3.1\PackageTest.runtimeconfig.json
+C:\Users\Olusoji\Desktop\Codebits-Academy\Lab-Tasks\Lab-Task9\PackageTest\bin\Debug\netcoreapp3.1\PackageTest.runtimeconfig.dev.json
+C:\Users\Olusoji\Desktop\Codebits-Academy\Lab-Tasks\Lab-Task9\PackageTest\bin\Debug\netcoreapp3.1\PackageTest.dll
+C:\Users\Olusoji\Desktop\Codebits-Academy\Lab-Tasks\Lab-Task9\PackageTest\bin\Debug\netcoreapp3.1\PackageTest.pdb
+C:\Users\Olusoji\Desktop\Codebits-Academy\Lab-Tasks\Lab-Task9\PackageTest\obj\Debug\netcoreapp3.1\PackageTest.dll
+C:\Users\Olusoji\Desktop\Codebits-Academy\Lab-Tasks\Lab-Task9\PackageTest\obj\Debug\netcoreapp3.1\PackageTest.pdb
+C:\Users\Olusoji\Desktop\Codebits-Academy\Lab-Tasks\Lab-Task9\PackageTest\obj\Debug\netcoreapp3.1\PackageTest.genruntimeconfig.cache
